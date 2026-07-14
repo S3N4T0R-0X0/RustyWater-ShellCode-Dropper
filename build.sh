@@ -1,5 +1,6 @@
 # chmod +x build.sh && ./build.sh 
 
+
 set -euo pipefail
 
 PROJECT_DIR="reddit"
