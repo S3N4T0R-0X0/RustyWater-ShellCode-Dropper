@@ -1,6 +1,6 @@
 # RustyWater ShellCode Dropper
 
-RustyWater represents the main payload and the backbone of the entire adversarial operation in Static Kitten group attacks. 
+RustyWater represents the main payload and the backbone of the entire adversarial operation in Static Kitten group attacks.  
 RustyWater is a Rust compiled executable (disguised as reddit.exe with a fake Cloudflare icon) known as RustyWater (or linked to Archer RAT/RUSTRIC) featuring strong AV/EDR evasion through process injection, registry based persistence.
 
 1-ANTI-ANALYSIS
